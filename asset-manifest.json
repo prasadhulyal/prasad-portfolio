@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/prasad-portfolio/static/css/main.cb5c389c.css",
+    "main.js": "/prasad-portfolio/static/js/main.478d9791.js",
+    "static/media/hero-banner.png": "/prasad-portfolio/static/media/hero-banner.350a9d25670e7ed29ccc.png",
+    "static/media/myImage.png": "/prasad-portfolio/static/media/myImage.a0cde5ce661d9597c588.png",
+    "static/media/Prasad-UpAts-Resume.pdf": "/prasad-portfolio/static/media/Prasad-UpAts-Resume.23351dfc2554b1299dfb.pdf",
+    "static/media/prasad-logo1.png": "/prasad-portfolio/static/media/prasad-logo1.684093fbc8ff9dd896d6.png",
+    "static/media/mail.svg": "/prasad-portfolio/static/media/mail.b3bb74dd9c04fbaaa423f15d6a71ba04.svg",
+    "static/media/whatsapp.svg": "/prasad-portfolio/static/media/whatsapp.f1e67bda04fce4808b36d19649786f85.svg",
+    "index.html": "/prasad-portfolio/index.html",
+    "static/media/linkedin.svg": "/prasad-portfolio/static/media/linkedin.9d6ef3fb8d0288c04247f07d95b80056.svg",
+    "main.cb5c389c.css.map": "/prasad-portfolio/static/css/main.cb5c389c.css.map",
+    "main.478d9791.js.map": "/prasad-portfolio/static/js/main.478d9791.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb5c389c.css",
+    "static/js/main.478d9791.js"
+  ]
+}
